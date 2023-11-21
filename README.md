@@ -8,5 +8,5 @@ How to use Software:
 4. Run App
 
 # Note:
-Link one video format: https://www.facebook.com/xxxxxx/videos/1037963390668808 
-Link fanpage video: https://www.facebook.com/xxxxx/videos
+1. Link one video format: https://www.facebook.com/xxxxxx/videos/1037963390668808 
+2. Link fanpage video: https://www.facebook.com/xxxxx/videos
