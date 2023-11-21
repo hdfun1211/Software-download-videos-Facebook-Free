@@ -5,12 +5,11 @@ Software download videos facebook for free (Download one link video and all vide
 2. Install Selenium
 3. Update chromedriver.exe
 4. Run App
-
 # Note:
 1. Link one video format: https://www.facebook.com/xxxxxx/videos/1037963390668808 
 2. Link fanpage video: https://www.facebook.com/xxxxx/videos
 
-# Watch tool on youtube:
+# Video tutorial:
 
 # Donate
 Buy me a coffee -> https://paypal.me/songngam
