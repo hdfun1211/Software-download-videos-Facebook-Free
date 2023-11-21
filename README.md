@@ -11,5 +11,4 @@ Software download videos facebook for free (Download one link video and all vide
 
 # Video tutorial: https://www.youtube.com/watch?v=9-oIlM7GCII
 # My Blog: https://nguyencuong.com.vn
-# Donate
-Buy me a coffee -> https://paypal.me/songngam
+# Buy me a coffee -> https://paypal.me/songngam
